@@ -1,6 +1,6 @@
 {
   "name": "cletsa",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Starter kit for making apps with LitElement and TypeScript.",
   "bin": "index.js",
   "repository": {

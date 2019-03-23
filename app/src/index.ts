@@ -15,7 +15,9 @@ export class Root extends LitElement {
     :host {
       height: 100%;
       display: flex;
+      flex-flow: row wrap;
       justify-content: center;
+      align-content: center;
       align-items: center;
       background: #232931;
     }
