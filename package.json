@@ -1,0 +1,23 @@
+{
+  "name": "cletsa",
+  "version": "0.0.3",
+  "description": "Starter kit for making apps with LitElement and TypeScript.",
+  "bin": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewthehan/cletsa.git"
+  },
+  "keywords": [
+    "lit-element",
+    "typescript"
+  ],
+  "author": "Andrew Han",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrewthehan/cletsa/issues"
+  },
+  "homepage": "https://github.com/andrewthehan/cletsa",
+  "dependencies": {
+    "fs-extra": "^7.0.1"
+  }
+}
